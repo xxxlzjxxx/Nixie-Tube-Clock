@@ -19,7 +19,7 @@ int main(void){
     TIM3_Int_Init(4999,7199);//10Khz的计数频率，计数到5000为500ms  
     usmart_dev.init(72);	//初始化USMART   
 	KEY_Init();          	//初始化与按键连接的硬件接口
-    TM16_INIT(2);
+    TM16_INIT(1);
     DS3231_Init();
 
 	while(1){ 
