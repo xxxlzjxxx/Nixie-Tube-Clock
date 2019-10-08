@@ -1,5 +1,5 @@
 ﻿# 基于TM1650驱动的数码管时钟
-![image]（https://github.com/xxxlzjxxx/Nixie-Tube-Clock/blob/master/PICTURE/CLOCK.jpg）
+![avatar](https://github.com/xxxlzjxxx/Nixie-Tube-Clock/blob/master/PICTURE/CLOCK.jpg)
 
 ---
 1.  使用DC9-12V供电。
