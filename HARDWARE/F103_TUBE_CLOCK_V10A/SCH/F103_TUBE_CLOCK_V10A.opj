@@ -133,36 +133,14 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1352 26 641")
-        (Scroll "-32 0")
-        (Zoom "74")
-        (Occurrence "/"))
-      (Path
-         "H:\NIXIE-TUBE-CLOCK\HARDWARE\F103_TUBE_CLOCK_V10A\SCH\F103_TUBE_CLOCK_V10A.DSN")
-      (Schematic "SCH")
-      (Page "01 COVER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 1382 52 671")
-        (Scroll "841 848")
-        (Zoom "148")
+        (Scroll "0 2578")
+        (Zoom "296")
         (Occurrence "/"))
       (Path
          "H:\NIXIE-TUBE-CLOCK\HARDWARE\F103_TUBE_CLOCK_V10A\SCH\F103_TUBE_CLOCK_V10A.DSN")
       (Schematic "SCH")
-      (Page "03 MCU"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 749")
-        (Scroll "-34 0")
-        (Zoom "74")
-        (Occurrence "/"))
-      (Path
-         "H:\NIXIE-TUBE-CLOCK\HARDWARE\F103_TUBE_CLOCK_V10A\SCH\F103_TUBE_CLOCK_V10A.DSN")
-      (Schematic "SCH")
-      (Page "04 POWER")))
+      (Page "03 MCU")))
   (PartMRUSelector
     (TM1650
       (FullPartName "TM1650.Normal")
