@@ -35,12 +35,18 @@ int main(void)
 		{				 
 			case KEY0_PRES:
 				DateTime.Minute++;
+                if(DateTime.Minute == 60){
+                    DateTime.Minute = 0;
+                }
                 DS3231_ModifyDateTime(DateTime.Year,DateTime.Month,DateTime.Day,DateTime.Hour,DateTime.Minute,DateTime.Second);
 				break;
 			case KEY1_PRES:
                 DateTime.Minute--;
                 DS3231_ModifyDateTime(DateTime.Year,DateTime.Month,DateTime.Day,DateTime.Hour,DateTime.Minute,DateTime.Second);
-				break;
+                if(DateTime.Minute == 0){
+                    DateTime.Minute = 60;
+                }
+                break;
             case WKUP_PRES:
                 Brightness++;
                 if(Brightness == 8){
