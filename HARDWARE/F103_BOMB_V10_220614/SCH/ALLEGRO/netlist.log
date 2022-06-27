@@ -1,0 +1,37 @@
+{ Using PSTWRITER 17.2.0 d001Jun-16-2022 at 09:14:46 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.7" ignored for J1: SCH, 03 MCU (35.56, 254.00). Connecting pin to net "PA10/USART1_RX".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.5" ignored for J1: SCH, 03 MCU (35.56, 254.00). Connecting pin to net "PA9/USART1_TX".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.32" ignored for U12: SCH, 03 MCU (45.72, 40.64). Connecting pin to net "PA11/LED0".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.33" ignored for U12: SCH, 03 MCU (45.72, 40.64). Connecting pin to net "PA12/LED1".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.26" ignored for U12: SCH, 03 MCU (45.72, 40.64). Connecting pin to net "PB13/KEY0".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.27" ignored for U12: SCH, 03 MCU (45.72, 40.64). Connecting pin to net "PB14/KEY1".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.20" ignored for U12: SCH, 03 MCU (45.72, 40.64). Connecting pin to net "PB2/DS3231_INT#".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.21" ignored for U12: SCH, 03 MCU (45.72, 40.64). Connecting pin to net "PB10/DS3231_SCL".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.22" ignored for U12: SCH, 03 MCU (45.72, 40.64). Connecting pin to net "PB11/DS3231_SDA".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.45" ignored for U12: SCH, 03 MCU (45.72, 40.64). Connecting pin to net "PB8/DP_LED".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.43" ignored for U12: SCH, 03 MCU (45.72, 40.64). Connecting pin to net "PB7/IIC_SDA".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.42" ignored for U12: SCH, 03 MCU (45.72, 40.64). Connecting pin to net "PB6/IIC_SCL".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.28" ignored for U12: SCH, 03 MCU (45.72, 40.64). Connecting pin to net "PB15/WK_UP".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "MH1.1" ignored for MH1: SCH, 04 POWER (63.50, 149.86). Connecting pin to net "GND".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "MH4.1" ignored for MH4: SCH, 04 POWER (114.30, 149.86). Connecting pin to net "GND".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.10" ignored for U12: SCH, 03 MCU (45.72, 40.64). Connecting pin to net "PA0/BEEP".
+#17 WARNING(ORCAP-36006): Part Name "JMP-2_0_CR1220HOLDER-SMD_CR1220HOLDER-SMD" is renamed to "JMP-2_0_CR1220HOLDER-SMD_CR1220".
+#18 WARNING(ORCAP-36006): Part Name "CONN RCPT 2_HX25035-2WA_HX25035-2WA" is renamed to "CONN RCPT 2_HX25035-2WA_HX25035".
+#19 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_1_L0805_BLM21PG600" is renamed to "IND_BEAD_0805_600OHM_1_L0805_BL".
+#20 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_B3F-4055_B3F-4055" is renamed to "SWITCH-SPST-4P_B3F-4055_B3F-405".
+#21 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_K2-1112SW-A4SW-04_K2-1112SW-A4SW-04" is renamed to "SWITCH-SPST-4P_K2-1112SW-A4SW-0".
+#22 WARNING(ORCAP-36006): Part Name "MP2359DJ-LF-Z_SOT23-6_MP2359DJ-LF-Z" is renamed to "MP2359DJ-LF-Z_SOT23-6_MP2359DJ-".
+#23 WARNING(ORCAP-36006): Part Name "STM32F103C8T6_LQFP48-7X7-0R5_STM32F103C8T6" is renamed to "STM32F103C8T6_LQFP48-7X7-0R5_ST".
+#24 WARNING(ORCAP-36006): Part Name "ST72151105W_0_ST72151105W_ST72151105W" is renamed to "ST72151105W_0_ST72151105W_ST721".
+#25 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-3P-3R2X1R3-SMD_CSTCE8M00G15C99-R0" is renamed to "XTAL_5032_0_X-3P-3R2X1R3-SMD_CS".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... G:\github\Nixie-Tube-Clock\HARDWARE\F103_BOOM_V10_220614\SCH\ALLEGRO/pstchip.dat
+
+Loading... G:\github\Nixie-Tube-Clock\HARDWARE\F103_BOOM_V10_220614\SCH\ALLEGRO/pstchip.dat
+
+Loading... G:\github\Nixie-Tube-Clock\HARDWARE\F103_BOOM_V10_220614\SCH\ALLEGRO/pstchip.dat
+
+Loading... G:\github\Nixie-Tube-Clock\HARDWARE\F103_BOOM_V10_220614\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...

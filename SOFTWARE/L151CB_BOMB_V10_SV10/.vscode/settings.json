@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sht30.h": "c",
+        "ds3231.h": "c"
+    }
+}

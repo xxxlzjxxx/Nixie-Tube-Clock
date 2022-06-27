@@ -123,7 +123,7 @@
       (Path "Design Resources" ".\f103_tube_clock_v10a.dsn" "SCH")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\f103_tube_clock_v10a.dsn"))
+      (Select "Design Resources" ".\f103_tube_clock_v10a.dsn" "SCH" "03 MCU"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -133,12 +133,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1382 52 671")
-        (Scroll "0 2578")
-        (Zoom "296")
+        (Placement "44 2 3 -1 -1 -8 -31 260 1013 260 879")
+        (Scroll "1543 730")
+        (Zoom "240")
         (Occurrence "/"))
       (Path
-         "H:\NIXIE-TUBE-CLOCK\HARDWARE\F103_TUBE_CLOCK_V10A\SCH\F103_TUBE_CLOCK_V10A.DSN")
+         "H:\GITHUB\NIXIE-TUBE-CLOCK\HARDWARE\F103_TUBE_CLOCK_V10A\SCH\F103_TUBE_CLOCK_V10A.DSN")
       (Schematic "SCH")
       (Page "03 MCU")))
   (PartMRUSelector
