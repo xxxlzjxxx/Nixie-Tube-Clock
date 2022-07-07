@@ -20,18 +20,21 @@ int main(void)
 	uart_init(115200);	 //串口初始化为9600
 
     TIM3_Int_Init(4999, 3200 - 1);//10Khz的计数频率，计数到5000为500ms  
-    usmart_dev.init(72);	//初始化USMART   
+    usmart_dev.init(32);	//初始化USMART   
+	printf(">>system reset \r\n");
 	KEY_Init();          	//初始化与按键连接的硬件接口
     TM16_INIT(Brightness);
     DS3231_Init();
     SHT_Init();
-	LED_Init();		  	 //初始化与LED连接的硬件接口    
+	LED_Init();		  	 //初始化与LED连接的硬件接口 
+
+	DS3231_ModifyDateTime(2022,7,7,19,01,01);
 	
     while(1){       
         DS3231_ReadDateTime(1);
         SHT_GetValue();//获取温湿度数据
         
-        t=KEY_Scan(1);		//得到键值
+        t=KEY_Scan(0);		//得到键值
 		switch(t)
 		{				 
 			case KEY0_PRES:

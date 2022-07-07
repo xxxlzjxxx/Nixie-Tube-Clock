@@ -1,0 +1,38 @@
+\t (00:00:02) allegro 17.2 S079 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Jul 04 19:11:20 2022
+\t (00:00:02)         Host=XXXLZJXXX User=Administrator Pid=10080 CPUs=12
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 827
+\i (00:00:04) trapsize 850
+\i (00:00:04) trapsize 859
+\i (00:00:04) trapsize 761
+\i (00:00:04) trapsize 932
+\i (00:00:04) generaledit 
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 14558.1 9413.4
+\i (00:00:08) trapsize 932
+\t (00:00:08) Begin Load EDA365 Skill...
+\t (00:00:08) >>EDA365 Skill V2.5 加载成功!
+\t (00:00:08) >>菜单快捷键CTRL+E
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 14576.8 9394.7
+\i (00:00:08) trapsize 932
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 14614.0 9394.7
+\i (00:00:08) trapsize 932
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 14651.3 9394.7
+\i (00:00:08) trapsize 932
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 14837.7 9413.4
+\i (00:00:08) trapsize 932
+\i (00:00:09) exit 
+\t (00:00:10)     Journal end - Mon Jul 04 19:11:28 2022

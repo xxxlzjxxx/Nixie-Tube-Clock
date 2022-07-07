@@ -78,6 +78,9 @@ void uart_init(u32 bound){
 	 
 	RCC_AHBPeriphClockCmd(RCC_AHBPeriph_GPIOA, ENABLE);	//Ê¹ÄÜUSART1£¬GPIOAÊ±ÖÓ
 	RCC_APB2PeriphClockCmd(RCC_APB2Periph_USART1, ENABLE);
+	
+	GPIO_PinAFConfig(GPIOA, GPIO_PinSource9,  GPIO_AF_USART1);
+	GPIO_PinAFConfig(GPIOA, GPIO_PinSource10, GPIO_AF_USART1);
 	//USART1_TX   GPIOA.9
 	GPIO_InitStructure.GPIO_Pin = GPIO_Pin_9; //PA.9
 	GPIO_InitStructure.GPIO_Speed = GPIO_Speed_40MHz;
